@@ -16,7 +16,7 @@ body {
 }
 
 .bg {
-background-image: url('https://images.unsplash.com/photo-1575136539837-ef84cd23474a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80');
+background-image: url('/images/lake\ view.jpg')  ;
     position: absolute;
     top: -30px;
     left: -30px;
